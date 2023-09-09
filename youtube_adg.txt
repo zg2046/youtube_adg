@@ -1,0 +1,7 @@
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+||safebrowsing.googleapis-cn.com
+||doubleclick.net^
+/pagead/lvz?
+||youtube.com/pagead/
